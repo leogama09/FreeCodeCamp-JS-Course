@@ -21,4 +21,4 @@ switch (val) {
   return answer;
 }
 
-switchOfStuff(1);
+console.log(switchOfStuff("a"));
