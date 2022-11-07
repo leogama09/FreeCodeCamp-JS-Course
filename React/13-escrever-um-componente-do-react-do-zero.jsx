@@ -1,0 +1,17 @@
+// Altere o código abaixo desta linha
+class MyComponent extends React.Component {
+  constructor(props) {
+    super(props)
+  }
+  render() {
+
+  return (
+
+    <div>
+    <h1>My First React Component!</h1>
+    </div>
+
+    )
+  }
+}
+ReactDOM.render(<div />, document.getElementById("challenge-node"))
